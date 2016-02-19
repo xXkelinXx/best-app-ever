@@ -25,8 +25,7 @@ the case.
 | ------------- | ------------- |
 | February 26   | Have the bare bones of the program laid out|
 | April 1       | have a functional gui and semi-funtional app|
-| April 29      | be almost completely done making the app look nice and have the app working at 90% of what the final product should be. (should be around the  
-                  finshing touches stage)|
+| April 29      | be almost completely done making the app look nice and have the app working at 90% of what the final product should be. (should be around the finshing touches stage)|
 
 ## Reality Check
 In terms of funds for this project I don't anticipate needing to buy anything. The Android SDK is free to download and other than that there will not be
